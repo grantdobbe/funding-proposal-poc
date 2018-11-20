@@ -1,0 +1,21 @@
+# This is a template for a funding proposal. Copy and rename it to your github username and the submission date (e.g. gdobbe-2018-11-20.yaml) Any valid yaml is par for the course
+
+# what are you calling this project
+project name:
+# who are you?
+contact person:
+  email:
+  github:
+# tell us about your project. ~300 words)
+project description: |
+
+# funding amount in US Dollars
+funding amount: 200
+  # how are you planning to use those funds?
+  funding breakdown: {
+    category 1 : dollars
+    category 2 : more dollars
+    }
+# when would you like to start this project
+start date:
+# other information you'd like to give us? use unique keys.
