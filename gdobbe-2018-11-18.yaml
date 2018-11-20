@@ -1,0 +1,25 @@
+# what are you calling this project
+project name: Teach kids how to solder
+# who are you?
+contact person: Grant Dobbe
+  email: grant@dobbe.us
+  github: @grantdobbe
+# tell us about your project. ~300 words)
+project description: |
+  I would like to run a soldering workshop for the local Girl Scout troop in my town. I can use the soldering irons and solder suckers from a local hackerspace, but I need flux, solder, and some kit projects for them to work on. I also want to go to the local thrift store and buy a bunch of old electronics, like TVs, radios, and the like so that they can practice desoldering components before they start soldering on their kit projects.
+# what's your goal?
+goal: |
+  I live in rural Wisconsin, and this girl scout troop doesn't have a lot of funds or opportunities for technology education. I feel very strongly about STEM education, especially for girls, and I want to make sure they have the same opportunities I had growing up to learn about electronics.
+# funding amount in US Dollars
+funding amount: 250
+  # how are you planning to use those funds?
+  funding breakdown: {
+    scrap hardware: 50
+    solder and flux: 50
+    kit projects: 100
+    snacks: 25
+    room rental: 25
+    }
+# when would you like to start this project (YYYY-MM-DD)
+start date: 2018-12-15
+# other information you'd like to give us? use unique keys.
