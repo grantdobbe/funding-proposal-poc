@@ -9,7 +9,8 @@ This is a proof of concept for how to use Git (specifically, git + GitHub) workf
 5. If the request is approved, the reviewers accept the pull request and the YAML is merged into the repo.
 
 # Why GitHub?
-* _GitHub is widely used in the hacker community._
+* _GitHub is widely used in the hacker community._ We're using a system thousands of people already understand intuitively; we're just hacking it a bit.
 * _Pull requests work for more than just code._ GitHub has a built-in system for reviewing and approving new contributions to a common base of knowledge. Normally, this is code, but it works reasonably well for text.
 * _It's easy to track status._ Your number of outstanding funding requests is the number of open PRs. You can see when a funding request was approved by looking at the git log. When your funding request is approved (or denied), you get a notification through your GitHub account.
 * _It's transparent._ If you want to see examples of prior approved requests, just look at the master branch of the repo. Because it's a public repo, anybody can submit a pull request. Everybody can see which pull requests were approved or denied by doing a search. And because it's YAML, the data is both machine-parseable (allowing you to do analysis) and human-readable.
+* _It's democratic._ Every PR has comment functionality, so you can see discussions in real-time. Anybody can fork the repo and submit a PR. PRs with more discussion/comments are more popular. Using branch rules, you can ensure that multiple reviewers have to approve the request before it can be merged.
